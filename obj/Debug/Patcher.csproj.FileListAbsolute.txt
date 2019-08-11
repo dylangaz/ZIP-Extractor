@@ -1,0 +1,10 @@
+C:\Users\dylan\source\repos\Patcher\Patcher\bin\Debug\Patcher.exe.config
+C:\Users\dylan\source\repos\Patcher\Patcher\bin\Debug\Patcher.exe
+C:\Users\dylan\source\repos\Patcher\Patcher\bin\Debug\Patcher.pdb
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Debug\Patcher.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Debug\Patcher.Form1.resources
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Debug\Patcher.Properties.Resources.resources
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Debug\Patcher.csproj.GenerateResource.cache
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Debug\Patcher.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Debug\Patcher.exe
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Debug\Patcher.pdb

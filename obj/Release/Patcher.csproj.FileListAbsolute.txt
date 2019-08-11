@@ -1,0 +1,10 @@
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Release\Patcher.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Release\Patcher.Form1.resources
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Release\Patcher.csproj.GenerateResource.cache
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Release\Patcher.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Patcher\Patcher\bin\Release\ZIP Extractor.exe.config
+C:\Users\dylan\source\repos\Patcher\Patcher\bin\Release\ZIP Extractor.exe
+C:\Users\dylan\source\repos\Patcher\Patcher\bin\Release\ZIP Extractor.pdb
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Release\Extractor.Properties.Resources.resources
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Release\ZIP Extractor.exe
+C:\Users\dylan\source\repos\Patcher\Patcher\obj\Release\ZIP Extractor.pdb
